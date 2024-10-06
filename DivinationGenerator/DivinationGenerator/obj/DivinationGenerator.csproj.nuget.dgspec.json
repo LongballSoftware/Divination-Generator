@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joshu\\source\\repos\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj": {}
+    "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joshu\\source\\repos\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj": {
+    "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joshu\\source\\repos\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj",
         "projectName": "DivinationGenerator",
-        "projectPath": "C:\\Users\\Joshu\\source\\repos\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj",
+        "projectPath": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj",
         "packagesPath": "C:\\Users\\Joshu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joshu\\source\\repos\\DivinationGenerator\\DivinationGenerator\\obj\\",
+        "outputPath": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joshu\\AppData\\Roaming\\NuGet\\NuGet.Config",

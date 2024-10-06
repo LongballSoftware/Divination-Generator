@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qKjsC0oHH4s=",
+  "dgSpecHash": "W5ZCSojMN2U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joshu\\source\\repos\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj",
+  "projectFilePath": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\DivinationGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joshu\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Joshu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
