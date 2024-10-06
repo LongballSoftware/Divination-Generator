@@ -51,6 +51,42 @@ namespace DivinationGenerator.Models
                     };
                     break;
 
+                case "Adeptus Mechanicus":
+                    divinations = new List<string>()
+                    {
+                        "Trust in your zeal - it is a weapon with no equal",
+                        "A small mind is a tidy mind",
+                        "To embrace the xenos is to welcome your own damnation",
+                        "The wise learn from the deaths of others",
+                        "Destroy the xenos before it can speak its lies",
+                        "Heresy begets retribution",
+                        "A mind without purpose will wander in dark places",
+                        "By the manner of our death are we judged",
+                        "Even one who has nothing can still offer their life",
+                        "Call no one happy until they are dead",
+                        "A moment of heresy blights a lifetime of duty",
+                        "Ruthlessness is the kindness of the wise",
+                        "Even in death, we serve the Omnissiah",
+                        "Death is the servant of the righteous",
+                        "Success is commemorated; failure is merely remembered",
+                        "Mercy is a sign of weakness",
+                        "Innocence proves nothing",
+                        "A coward always seeks compromise",
+                        "Turn from the wisdom of the Omnissiah at your peril",
+                        "There is nothing to fear but failure",
+                        "Suffering is an unrelenting instructor",
+                        "Hope is the first step on the road to disappointment",
+                        "Forgiveness is a sign of weakness",
+                        "Do not ask why you serve, only ask how",
+                        "All your works turn to ash and dust if they do not serve the Omnissiah",
+                        "Heresy grows from idleness",
+                        "Thy soul, consumed with anger, shall be blinded to the unseen enemy",
+                        "Heed not the smith, in his artifice lies thy doom",
+                        "As thee began, so shalt thee end",
+
+                    };
+                    break;
+
                 default:
                     divinations = new List<String>()
                     {
@@ -103,7 +139,17 @@ namespace DivinationGenerator.Models
                         "There are no bystanders in war, only soldiers and traitors",
                         "Carry the Emperor's Will as your torch; with it destroy the shadows",
                         "Heresy grows from idleness",
-                        "Burn the Heretic! Kill the Mutant! Purge the Unclean!"
+                        "Burn the Heretic! Kill the Mutant! Purge the Unclean!",
+                        "Death sings sweetly",
+                        "Thy soul, consumed with anger, shall be blinded to the unseen enemy",
+                        "Heed not the smith, in his artifice lies thy doom",
+                        "Beware the verdant depths, within doth lie disaster",
+                        "The laurel wreath hides a poison thorn",
+                        "Beware the purse, the sack, the velvet bag",
+                        "Beware the young, the child, even the babe",
+                        "As thee began, so shalt thee end",
+                        "An ill reputation shall an ill man make",
+                        "Tie not the ribbon, nor the feather; the peacock is thine enemy"
                     };
                     break;
             }

@@ -20,7 +20,6 @@ namespace DivinationGenerator.Controllers
 
         public IActionResult Divinations(CharacterViewModel character)
         {
-
             return View(character.faction);
         }
 

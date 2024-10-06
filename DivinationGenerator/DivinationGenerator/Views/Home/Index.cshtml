@@ -10,8 +10,7 @@
 </div>
 
 <div style="margin:10px">
-    <button>Adeptus Mechanicus</button>
-
+        @Html.ActionLink("Adeptus Mechanicus", "Divinations", "Home", new CharacterViewModel("Adeptus Mechanicus"));
 </div>
 
 <div style="margin:10px">
@@ -45,7 +44,7 @@
 </div>
 
 <div style="margin:10px">
-    @Html.ActionLink("Rogue Trader Dynasty", "Divinations", "Home", new CharacterViewModel());
+    @Html.ActionLink("Rogue Trader Dynasty", "Divinations", "Home", new CharacterViewModel("Rogue Trader Dynasty"));
 </div>
 
 <script>
