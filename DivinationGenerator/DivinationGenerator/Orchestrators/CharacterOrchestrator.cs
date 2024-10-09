@@ -56,14 +56,45 @@ namespace DivinationGenerator.Orchestrators
                 case "The Inquisition":
                     character.faction.divinations = new List<String>()
                     {
-                        "not implemented"
+                       "Innocence Proves Nothing"
                     };
                     break;
 
                 case "Adeptus Ministorum":
                     character.faction.divinations = new List<String>()
                     {
-                        "not implemented"
+                        "It is better to die for the Emperor than to live for yourself",
+                        "Trust in your zeal - it is a weapon with no equal",
+                        "A small mind is a tidy mind",
+                        "To embrace the xenos is to welcome your own damnation",
+                        "Duty prevails",
+                        "The wise learn from the deaths of others",
+                        "Logic is the enemy of faith",
+                        "Thought begets heresy",
+                        "Heresy begets retribution",
+                        "By the manner of our death are we judged",
+                        "The Emperor bestows upon us the gift of intolerance",
+                        "True faith is blind and justified",
+                        "The blood of martyrs is the seed of the Imperium",
+                        "An open mind is like a fortress with its gates unbarred and unguarded",
+                        "In the blood of martyrs is the blade of the Imperium made strong",
+                        "A moment of heresy blights a lifetime of duty",
+                        "Ruthlessness is the kindness of the wise",
+                        "Death is the servant of the righteous",
+                        "Blessed is the mind too small for doubt",
+                        "Burn the Unclean with the fires of Purity",
+                        "Turn from the Emperor's light at your peril",
+                        "There is nothing to fear but failure",
+                        "Doubt is a sign of weakness",
+                        "The greatest armor is contempt",
+                        "Hatred is the Emperor's greatest gift to Humanity",
+                        "Doubt forms the path to damnation",
+                        "Suffering is an unrelenting instructor",
+                        "Hope is the first step on the road to disappointment",
+                        "Carry the Emperor's Will as your torch; with it destroy the shadows",
+                        "Heresy grows from idleness",
+                        "Burn the Heretic! Kill the Mutant! Purge the Unclean!",
+                        "Beware the young, the child, even the babe",
                     };
                     break;
 
