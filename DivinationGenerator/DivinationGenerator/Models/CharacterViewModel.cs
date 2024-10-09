@@ -5,16 +5,12 @@
         public string? name { get; set; }
         public FactionViewModel faction { get; set; }
         
-        
+        public string? factionName { get; set; }
 
-        public CharacterViewModel(string factionName)
-        {
-            faction = new FactionViewModel(factionName);
-        }
+
 
         public CharacterViewModel()
         {
-            faction = new FactionViewModel("");
         }
     }
 

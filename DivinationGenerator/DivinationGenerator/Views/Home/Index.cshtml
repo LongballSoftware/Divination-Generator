@@ -5,46 +5,46 @@
 <h1>Choose Your Faction</h1>
 
 <div style="margin:10px">
-    <button>Adeptus Astra Telepathica</button>
+    <button>@Html.ActionLink("Adeptus Astra Telepathica", "Divinations", new CharacterViewModel{factionName="Adeptus Astra Telepathica"});</button>
 
 </div>
 
 <div style="margin:10px">
-        @Html.ActionLink("Adeptus Mechanicus", "Divinations", "Home", new CharacterViewModel("Adeptus Mechanicus"));
+    <button>@Html.ActionLink("Adeptus Mechanicus", "Divinations", new CharacterViewModel { factionName = "Adeptus Mechanicus" });</button>
 </div>
 
 <div style="margin:10px">
-    <button>Adeptus Administratum</button>
-
-</div>
-
-<div style="margin:10px">
-    <button>Adeptus Militarum</button>
+    <button>@Html.ActionLink("Adeptus Administratum", "Divinations", new CharacterViewModel { factionName = "Adeptus Administratum" });</button>
 
 </div>
 
 <div style="margin:10px">
-    <button>Adeptus Ministorum</button>
+    <button>@Html.ActionLink("Adeptus Militarum", "Divinations", new CharacterViewModel { factionName = "Adeptus Militarum" });</button>
 
 </div>
 
 <div style="margin:10px">
-    <button>The Inquisition</button>
+    <button>@Html.ActionLink("Adeptus Ministorum", "Divinations", new CharacterViewModel { factionName = "Adeptus Ministorum" });</button>
 
 </div>
 
 <div style="margin:10px">
-    <button>Imperial Fleet</button>
+    <button>@Html.ActionLink("The Inquisition", "Divinations", new CharacterViewModel { factionName = "The Inquisition" });</button>
 
 </div>
 
 <div style="margin:10px">
-    <button>Infractionist</button>
+    <button>@Html.ActionLink("Imperial Fleet", "Divinations", new CharacterViewModel { factionName = "Imperial Fleet" });</button>
 
 </div>
 
 <div style="margin:10px">
-    @Html.ActionLink("Rogue Trader Dynasty", "Divinations", "Home", new CharacterViewModel("Rogue Trader Dynasty"));
+    <button>@Html.ActionLink("Infractionists", "Divinations", new CharacterViewModel { factionName = "Infractionist" });</button>
+
+</div>
+
+<div style="margin:10px">
+    <button>@Html.ActionLink("Rogue Trader Dynasty", "Divinations", new CharacterViewModel { factionName = "Rogue Trader Dynasty" });</button>
 </div>
 
 <script>

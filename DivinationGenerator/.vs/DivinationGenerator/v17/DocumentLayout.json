@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|c:\\users\\joshu\\source\\repos\\divination-generator\\divinationgenerator\\divinationgenerator\\views\\home\\divinations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|solutionrelative:divinationgenerator\\views\\home\\divinations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|c:\\users\\joshu\\source\\repos\\divination-generator\\divinationgenerator\\divinationgenerator\\models\\characterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|solutionrelative:divinationgenerator\\models\\characterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|c:\\users\\joshu\\source\\repos\\divination-generator\\divinationgenerator\\divinationgenerator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|solutionrelative:divinationgenerator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|c:\\users\\joshu\\source\\repos\\divination-generator\\divinationgenerator\\divinationgenerator\\orchestrators\\characterorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|solutionrelative:divinationgenerator\\orchestrators\\characterorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|c:\\users\\joshu\\source\\repos\\divination-generator\\divinationgenerator\\divinationgenerator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|c:\\users\\joshu\\source\\repos\\divination-generator\\divinationgenerator\\divinationgenerator\\models\\factionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|solutionrelative:divinationgenerator\\models\\factionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|c:\\users\\joshu\\source\\repos\\divination-generator\\divinationgenerator\\divinationgenerator\\models\\characterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|solutionrelative:divinationgenerator\\models\\characterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|c:\\users\\joshu\\source\\repos\\divination-generator\\divinationgenerator\\divinationgenerator\\views\\home\\divinations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96B88199-4048-42F8-B50F-2F9193A9CDF0}|DivinationGenerator\\DivinationGenerator.csproj|solutionrelative:divinationgenerator\\views\\home\\divinations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DivinationGenerator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DivinationGenerator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T00:28:32.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Orchestrators\\CharacterOrchestrator.cs",
+              "RelativeDocumentMoniker": "DivinationGenerator\\Orchestrators\\CharacterOrchestrator.cs",
+              "ToolTip": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Orchestrators\\CharacterOrchestrator.cs",
+              "RelativeToolTip": "DivinationGenerator\\Orchestrators\\CharacterOrchestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:08:43.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DivinationGenerator\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DivinationGenerator\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T00:02:31.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CharacterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Models\\CharacterViewModel.cs",
               "RelativeDocumentMoniker": "DivinationGenerator\\Models\\CharacterViewModel.cs",
               "ToolTip": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Models\\CharacterViewModel.cs",
               "RelativeToolTip": "DivinationGenerator\\Models\\CharacterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T00:01:45.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Divinations.cshtml",
               "DocumentMoniker": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Views\\Home\\Divinations.cshtml",
               "RelativeDocumentMoniker": "DivinationGenerator\\Views\\Home\\Divinations.cshtml",
               "ToolTip": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Views\\Home\\Divinations.cshtml",
               "RelativeToolTip": "DivinationGenerator\\Views\\Home\\Divinations.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-06T00:13:37.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FactionViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Models\\FactionViewModel.cs",
               "RelativeDocumentMoniker": "DivinationGenerator\\Models\\FactionViewModel.cs",
               "ToolTip": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Models\\FactionViewModel.cs",
               "RelativeToolTip": "DivinationGenerator\\Models\\FactionViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T00:00:25.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DivinationGenerator\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Joshu\\source\\repos\\Divination-Generator\\DivinationGenerator\\DivinationGenerator\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DivinationGenerator\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T00:28:32.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T00:00:25.772Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DivinationGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e942e4567379809fa0a58206592e57485c360453")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55de260980ff206d36f5dfc814301574d82543a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DivinationGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DivinationGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

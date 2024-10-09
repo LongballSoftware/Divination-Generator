@@ -1,4 +1,5 @@
 using DivinationGenerator.Models;
+using DivinationGenerator.Orchestrators;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -20,13 +21,18 @@ namespace DivinationGenerator.Controllers
 
         public IActionResult Divinations(CharacterViewModel character)
         {
+            CharacterOrchestrator characterOrchestrator = new CharacterOrchestrator();
+            character = characterOrchestrator.UpdateFaction(character, character.factionName);
             return View(character.faction);
         }
+
+
 
         public IActionResult Privacy()
         {
             return View();
         }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
